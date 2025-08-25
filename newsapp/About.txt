@@ -1,0 +1,3 @@
+About 
+
+These is  a news app "News Now" created using react js . The news here comes from an API. One can view latest news here.
